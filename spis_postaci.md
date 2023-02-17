@@ -10,3 +10,4 @@ czarodziej umie czarować i szczelac z ruszczki
 ---
 ###rycerz
 rycerz jest powolny ale ma zbroje która obniża obrażenia przeciwnika jego broń to miecz 
+---
